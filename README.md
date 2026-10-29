@@ -2,7 +2,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Xovo-efx+Profile;A+Noob+Programmer;Knows+Python+HTML+CSS+JavaScript;FollowMe+xovoefx;for+BotUpdates...;TeleGram+Bot+Maker;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Joelkb&label=Profile%20views&color=129e00&style=plastic" alt="xovoefx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Joelkb&label=Profile%20views&color=129e00&style=plastic" alt="eldhoyy" /> </p>
 
 <b>• 👨‍💻 Languages: Python, HTML, CSS, JavaScript
 
@@ -26,9 +26,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xovoefx&theme=highcontrast" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eldhoyy&theme=highcontrast" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=xovoefx&theme=tokyonight" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=eldhoyy&theme=tokyonight" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelkb&layout=compact&theme=tokyonight" align="center">
 
@@ -38,9 +38,9 @@
 
 <p align="center">
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=xovoefx&custom_title=Contribution+Graph&theme=xcode" align="center">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=eldhoyy&custom_title=Contribution+Graph&theme=xcode" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xovoefx&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eldhoyy&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" align="center">
 
 </p>
 
